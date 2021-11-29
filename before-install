@@ -1,2 +1,2 @@
-sudo mv /var/lib/jenkins/workspace/jenkins-ansible/target/LoginWebApp-1.war /home/ansadmin/apache-tomcat-9.0.33/webapps
+sudo mv /var/lib/jenkins/workspace/Jenkins-Tomcat/target/LoginWebApp-1.war /opt/tomcat/apache-tomcat-8.5.73/webapps
 sudo service tomcat restart
