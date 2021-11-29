@@ -6,9 +6,9 @@ https_port: 8443
 # This will configure a default manager-gui user:
 
 admin_username: admin
-admin_password: adminsecret
+admin_password: tomcat
 
 tomcat_group: tomcat
-tomcat_user: tomcat
+tomcat_user: ansadmin
 
-username: jenkins
+username: ansadmin
